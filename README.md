@@ -1,5 +1,5 @@
 ## Projeto de um Jogo para ver quem consegue acumular mais porntos primeiro
-Teste o app - <a href="https://thander21.github.io/TCJ-Pig-Game/" target="_blank">https://thander21.github.io/TCJ-Pig-Game/</a>
+<a href="https://thander21.github.io/TCJ-Pig-Game/" target="_blank">Teste o App no GitHub Pages</a>
 
 
 ![alt text](./img/Print.png)
