@@ -1,6 +1,6 @@
 ## Projeto de um Jogo para ver quem consegue acumular mais porntos primeiro
 
-![alt text](Print.png)
+![alt text](./img/Print.png)
 
 **Projeto feito passo a passo**
 
